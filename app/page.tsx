@@ -96,19 +96,22 @@ export default function Home() {
             </Card>
 
             <Card className="p-6 space-y-4 bg-card border-boCreate Together<br>r-secondary/50 transition-colors">
-              <div> We design games side by side—dreaming up ideas, testing levels, and turning imagination into playable worlds.<br>sers className="w-6 h-6 text-secondary" />
+              <div className="w-12 h-12 rounded-lg bg-primary/10 flex items-center justify-center">
+                <Sparkles className="w-6 h-6 text-primary" />                
               </div>
               <h3 className="text-xl font-bold text-balance">Community Driven</h3>
               <p className="text-muted-foreground text-pretty leading-relaxed">
-                Our community shapes the game. Your feedback and ideas directly influence development.
+                We design games side by side—dreaming up ideas, testing levels, and turning imagination into playable worlds.
               </p>
             </Card>
 
             <Card className="p-6 space-y-4 bg-card border-borPlayer Friendly<br>-accent/50 transition-colors">
               <div className="w-12 h-12 rounded-lg bg-accent/10 flex items-center justify-center">
-                We care about the people who play our games. Feedback helps shape what we build, and fun always comes before frustration.<br>assName="text-xl font-bold text-balance">Quality Focused</h3>
+                <Sparkles className="w-6 h-6 text-primary" />
+              </div>
+              <h3 className="text-xl font-bold text-balance">Quality Focused</h3>              
               <p className="text-muted-foreground text-pretty leading-relaxed">
-                We take our time to ensure every detail is polished and every system feels great to play.
+                We care about the people who play our games. Feedback helps shape what we build, and fun always comes before frustration.
               </p>
             </Card>
           </div>
