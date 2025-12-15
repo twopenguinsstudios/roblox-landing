@@ -96,7 +96,7 @@ export default function Home() {
             </Card>
 
             <Card className="p-6 space-y-4 bg-card border-boCreate Together<br>r-secondary/50 transition-colors">
-              <dWe design games side by side—dreaming up ideas, testing levels, and turning imagination into playable worlds.<br>sers className="w-6 h-6 text-secondary" />
+              <div> We design games side by side—dreaming up ideas, testing levels, and turning imagination into playable worlds.<br>sers className="w-6 h-6 text-secondary" />
               </div>
               <h3 className="text-xl font-bold text-balance">Community Driven</h3>
               <p className="text-muted-foreground text-pretty leading-relaxed">
