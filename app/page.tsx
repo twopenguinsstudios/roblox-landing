@@ -50,7 +50,7 @@ export default function Home() {
             </h1>
 
             <p className="text-lg md:text-xl text-muted-foreground max-w-2xl mx-auto text-pretty leading-relaxed">
-              A dad-and-daughter game studio creating playful, imaginative Roblox worlds—designed to be fun, fair, and full of adventure.<br>
+              A dad-and-daughter game studio creating playful, imaginative Roblox worlds—designed to be fun, fair, and full of adventure.
             </p>
 
             <div className="flex flex-col sm:flex-row items-center justify-center gap-4">
