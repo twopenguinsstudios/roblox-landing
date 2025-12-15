@@ -82,7 +82,9 @@ export default function Home() {
             <h2 className="text-4xl md:text-5xl font-bold text-balance">Who We Are</h2>
             <p className="text-lg text-muted-foreground text-pretty leading-relaxed">
               A passionate indie studio dedicated to pushing the boundaries of what&apos;s possible in Roblox
-            </We’re a small, family-run Roblox studio where creativity, curiosity, and fun come first. We build games together, learn as we go, and focus on making experiences we actually love to play.<br>          <Card className="p-6 space-y-4 bg-card border-border hover:border-primary/50 transition-colors">
+              We’re a small, family-run Roblox studio where creativity, curiosity, and fun come first. We build games together, learn as we go, and focus on making experiences we actually love to play.<br>          
+              <Card className="p-6 space-y-4 bg-card border-border hover:border-primary/50 transition-colors">
+            </p>
               <div className="w-12 h-12 rounded-lg bg-primary/10 flex items-center justify-center">
                 <Sparkles className="w-6 h-6 text-primary" />
               </div>
